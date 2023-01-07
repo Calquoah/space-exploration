@@ -1,0 +1,1 @@
+In this project, I learned several new concepts, including adding background images, Webp format, the <span> tag, and adding ID's and utility classes to the code to create a more dynamic and exciting website.

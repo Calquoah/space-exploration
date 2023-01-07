@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    color: #6EB3D8;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#hero {
+    background-image: url("images/galaxy.webp");
+    background-size: cover;
+    padding: 150px 0 300px 0;
+}
+
+#main-logo {
+    width: 100px;
+}
+
+#title {
+    text-shadow: 0px 0px 6px black;
+}
+
+.btn {
+    background-color: white;
+    padding: 6px 12px;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color: #6EB3D8;
+    font-weight: 800;
+}
+
+/** The font-weight property can input both numerical (100-900)
+and named values (italic, bold, etc.)**/
+
+.underline {
+    text-decoration: underline solid 4px white;
+    text-underline-position: under;
+}
+
+/** This is a comment in CSS - You can also solve
+this underline "challenge" by inputting this code
+
+.underline {
+    border-bottom: 4px solid white;
+} **/
+
+h3 {
+    text-align: center;
+}
